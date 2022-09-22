@@ -18,6 +18,7 @@ body{
     right: 100px;
     bottom: 80px;
     background: url(bg.jpg);
+    background-repeat: no-repeat;
     background-attachment: fixed;
     display: flex;
     justify-content: center;
